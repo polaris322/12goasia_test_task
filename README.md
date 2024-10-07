@@ -1,5 +1,5 @@
-# 12goasia_test_task
-Vue3 test task to create a phone input component
+# 12Go Asia Test Task
+Vue3 test task to create a phone input component.
 
 Create a Vue@3 component for a custom phone number input field with a mask that only allows digits, spaces and (, ), -, + characters.
 Check the browser locale, if it's "en-US", the input should have a placeholder "+1 (123) 456-7890", in any other case, the placeholder should be "Phone number".
